@@ -4,7 +4,7 @@
 <img src="Pauline_Tranchant_ProfilePicture.png" width= "150px" />
 
 I am currently a PhD Candidate at [BRAMS](http://www.brams.org). 
-I conduct research on the cognitive mechanisms underlying rhythm perception and movement synchronization to music. I use machine learning to decode rhythm perception from brain signals. My methodologies mainly include behavioral testing, electroencephalography, and motion capture.
+I conduct research on the cognitive mechanisms of rhythm perception and movement synchronization to music. I use machine learning to decode rhythm perception from brain signals. My methodologies mainly include behavioral testing, electroencephalography, and motion capture.
 
 ## Academic Training
 * Present PhD Candidate in Neurocognition of Music, BRAMS, Université de Montréal, Canada
