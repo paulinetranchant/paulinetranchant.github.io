@@ -12,4 +12,4 @@ I conduct research on the cognitive mechanisms underlying rhythm perception and 
 * 2010 M.Sc. in Mathematics, Université catholique de Louvain, Belgium
 * 2008 B.Sc. in Mathematic (minor in Physics), Université catholique de Louvain, Belgium
 
-You can download my CV [here]("CV_PaulineTranchant_2017.pdf")
+You can download my CV [here](CV_PaulineTranchant_2017.pdf)
